@@ -1,5 +1,5 @@
 # jal
-This is project is a php based app that determines how many days annual leave the user needs to take off work for the selected Jewish holidays over the desired time period.
+This project is a php based app that determines how many days annual leave the user needs to take off work for the selected Jewish holidays over the desired time period.
 
 Given employees are allocated a certain number of days annual leave in a given 12 month period, the user will need to enter:
 * The start date of their working year
